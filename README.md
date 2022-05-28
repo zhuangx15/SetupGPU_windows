@@ -37,5 +37,8 @@ Step7:  Create new environment for GPU computing with python 3.9; and setup kern
         
 Step8:  install tensorflow and other needed library
         NOTE THAT: pip install tensorflow to get the most up-to-date tensorflow [in my case: 2.9]
-        
+  
+Trouble shooting:
+Jupyter debug mode: jupyter notebook --debug
+error 193: the combination of all parties' version is not correct! Check step 3
         
