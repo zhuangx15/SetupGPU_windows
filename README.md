@@ -20,8 +20,8 @@ Step4:  Install CuDNN to folder C:\tools\cuda
         For CUDA 11.2 --> cudnn-v8.2.4; find at https://developer.nvidia.com/rdp/cudnn-archive
         
 Step5:  Setup PATH; environment variable
-        C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;
-        
+
+        C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;       
         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\extras\CUPTI\lib64;
         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include;
         C:\tools\cuda\bin;
