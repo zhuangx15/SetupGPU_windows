@@ -41,4 +41,6 @@ Step8:  install tensorflow and other needed library
 Trouble shooting:
 Jupyter debug mode: jupyter notebook --debug
 error 193: the combination of all parties' version is not correct! Check step 3
+
+Conda cheat sheet: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
         
