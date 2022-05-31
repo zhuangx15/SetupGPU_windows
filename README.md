@@ -9,6 +9,7 @@ Step2:  Install visual-studio-2019 [need to check] -->desktop development with C
         # most cases 2019; but could check at  https://www.tensorflow.org/install/source_windows  to see which compiler is used;
         check if vcvars64.bat exist under C:\Program Files\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\
         if so, success;
+        # could also be under: C:\Program Files(x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\
 
 Step3:  Install CUDA Toolkit:
         NOTE THAT Python 3.9 + Tensorflow 2.9 ==> use CUDA 11.2!!!!!!! 
