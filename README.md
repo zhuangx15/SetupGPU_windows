@@ -31,11 +31,12 @@ Step6:  Install Anaconda
 
 Step7:  Create new environment for GPU computing with python 3.9; and setup kernel
         open anaconda prompt:
-        conda create env --name tensorflow_GPU2 python=3.9
-        conda activate tensorflow_GPU2
-        NOW UNDER ENVIRONMENT tensorflow_GPU2
-        conda install ipykernel
-        python -m ipykernel install --user --name tensorflow_GPU2 --display-name "Python 3.9 (tensorflow)"
+        conda create env --name tensorflow_GPU2 python=3.9;
+        # or conda create env -n tensorflow_GPU2 python=3.9;
+        conda activate tensorflow_GPU2;
+        NOW UNDER ENVIRONMENT tensorflow_GPU2;
+        conda install ipykernel;
+        python -m ipykernel install --user --name tensorflow_GPU2 --display-name "Python 3.9 (tensorflow)";
         
 Step8:  install tensorflow and other needed library
         NOTE THAT: pip install tensorflow to get the most up-to-date tensorflow [in my case: 2.9]
