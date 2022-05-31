@@ -5,8 +5,9 @@ Overall following: https://www.youtube.com/watch?v=OEFKlRSd8Ic
 
 Step1:  Download and Install NIVIDA Graphic driver at https://www.nvidia.com/download/index.aspx
 
-Step2:  Install visual-studio-2022 [need to check] -->desktop development with C++
-        check if vcvars64.bat exist under C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\
+Step2:  Install visual-studio-2019 [need to check] -->desktop development with C++
+        # most cases 2019; but could check at  https://www.tensorflow.org/install/source_windows  to see which compiler is used;
+        check if vcvars64.bat exist under C:\Program Files\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\
         if so, success;
 
 Step3:  Install CUDA Toolkit:
