@@ -4,7 +4,9 @@ For my personal use, set up GPU on my windows machine
 #===============================Update Feb 2023 on Lab-GPU=====================
 
 First Download and Install NIVIDA Graphic driver at https://www.nvidia.com/download/index.aspx
+
 Next, following: https://www.tensorflow.org/install/pip#windows-native; [MAKE SURE SELECT ENGLISH as language];
+
 Currently install tensorflow 2.10 using Windows-Native; Later would try WSL;
 
 
